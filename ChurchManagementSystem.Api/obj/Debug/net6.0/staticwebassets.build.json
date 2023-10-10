@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DD7AhcywesRtzF6I9xbCGmWhPT+99xPQ4GoO2Fas7zk=",
+  "Source": "ChurchManagementSystem.Api",
+  "BasePath": "_content/ChurchManagementSystem.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

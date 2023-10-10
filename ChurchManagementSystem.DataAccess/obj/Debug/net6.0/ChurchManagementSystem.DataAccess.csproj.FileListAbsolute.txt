@@ -1,0 +1,17 @@
+C:\Users\jude\source\repos\ChurchManagementSystem.DataAccess\bin\Debug\net6.0\ChurchManagementSystem.DataAccess.deps.json
+C:\Users\jude\source\repos\ChurchManagementSystem.DataAccess\bin\Debug\net6.0\ChurchManagementSystem.DataAccess.runtimeconfig.json
+C:\Users\jude\source\repos\ChurchManagementSystem.DataAccess\bin\Debug\net6.0\ChurchManagementSystem.DataAccess.dll
+C:\Users\jude\source\repos\ChurchManagementSystem.DataAccess\bin\Debug\net6.0\ChurchManagementSystem.DataAccess.pdb
+C:\Users\jude\source\repos\ChurchManagementSystem.DataAccess\bin\Debug\net6.0\ChurchManagementSystem.Domain.dll
+C:\Users\jude\source\repos\ChurchManagementSystem.DataAccess\bin\Debug\net6.0\ChurchManagementSystem.Domain.pdb
+C:\Users\jude\source\repos\ChurchManagementSystem.DataAccess\obj\Debug\net6.0\ChurchManagementSystem.DataAccess.csproj.AssemblyReference.cache
+C:\Users\jude\source\repos\ChurchManagementSystem.DataAccess\obj\Debug\net6.0\ChurchManagementSystem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jude\source\repos\ChurchManagementSystem.DataAccess\obj\Debug\net6.0\ChurchManagementSystem.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jude\source\repos\ChurchManagementSystem.DataAccess\obj\Debug\net6.0\ChurchManagementSystem.DataAccess.AssemblyInfo.cs
+C:\Users\jude\source\repos\ChurchManagementSystem.DataAccess\obj\Debug\net6.0\ChurchManagementSystem.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jude\source\repos\ChurchManagementSystem.DataAccess\obj\Debug\net6.0\ChurchManagementSystem.DataAccess.csproj.CopyComplete
+C:\Users\jude\source\repos\ChurchManagementSystem.DataAccess\obj\Debug\net6.0\ChurchManagementSystem.DataAccess.dll
+C:\Users\jude\source\repos\ChurchManagementSystem.DataAccess\obj\Debug\net6.0\refint\ChurchManagementSystem.DataAccess.dll
+C:\Users\jude\source\repos\ChurchManagementSystem.DataAccess\obj\Debug\net6.0\ChurchManagementSystem.DataAccess.pdb
+C:\Users\jude\source\repos\ChurchManagementSystem.DataAccess\obj\Debug\net6.0\ChurchManagementSystem.DataAccess.genruntimeconfig.cache
+C:\Users\jude\source\repos\ChurchManagementSystem.DataAccess\obj\Debug\net6.0\ref\ChurchManagementSystem.DataAccess.dll

@@ -1,0 +1,17 @@
+C:\Users\jude\source\repos\ChurchManagementSystem.BusinessLogic\bin\Debug\net6.0\ChurchManagementSystem.BusinessLogic.deps.json
+C:\Users\jude\source\repos\ChurchManagementSystem.BusinessLogic\bin\Debug\net6.0\ChurchManagementSystem.BusinessLogic.dll
+C:\Users\jude\source\repos\ChurchManagementSystem.BusinessLogic\bin\Debug\net6.0\ChurchManagementSystem.BusinessLogic.pdb
+C:\Users\jude\source\repos\ChurchManagementSystem.BusinessLogic\bin\Debug\net6.0\ChurchManagementSystem.DataAccess.dll
+C:\Users\jude\source\repos\ChurchManagementSystem.BusinessLogic\bin\Debug\net6.0\ChurchManagementSystem.Domain.dll
+C:\Users\jude\source\repos\ChurchManagementSystem.BusinessLogic\bin\Debug\net6.0\ChurchManagementSystem.DataAccess.pdb
+C:\Users\jude\source\repos\ChurchManagementSystem.BusinessLogic\bin\Debug\net6.0\ChurchManagementSystem.Domain.pdb
+C:\Users\jude\source\repos\ChurchManagementSystem.BusinessLogic\obj\Debug\net6.0\ChurchManagementSystem.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\jude\source\repos\ChurchManagementSystem.BusinessLogic\obj\Debug\net6.0\ChurchManagementSystem.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jude\source\repos\ChurchManagementSystem.BusinessLogic\obj\Debug\net6.0\ChurchManagementSystem.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\jude\source\repos\ChurchManagementSystem.BusinessLogic\obj\Debug\net6.0\ChurchManagementSystem.BusinessLogic.AssemblyInfo.cs
+C:\Users\jude\source\repos\ChurchManagementSystem.BusinessLogic\obj\Debug\net6.0\ChurchManagementSystem.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\jude\source\repos\ChurchManagementSystem.BusinessLogic\obj\Debug\net6.0\ChurchManagementSystem.BusinessLogic.csproj.CopyComplete
+C:\Users\jude\source\repos\ChurchManagementSystem.BusinessLogic\obj\Debug\net6.0\ChurchManagementSystem.BusinessLogic.dll
+C:\Users\jude\source\repos\ChurchManagementSystem.BusinessLogic\obj\Debug\net6.0\refint\ChurchManagementSystem.BusinessLogic.dll
+C:\Users\jude\source\repos\ChurchManagementSystem.BusinessLogic\obj\Debug\net6.0\ChurchManagementSystem.BusinessLogic.pdb
+C:\Users\jude\source\repos\ChurchManagementSystem.BusinessLogic\obj\Debug\net6.0\ref\ChurchManagementSystem.BusinessLogic.dll

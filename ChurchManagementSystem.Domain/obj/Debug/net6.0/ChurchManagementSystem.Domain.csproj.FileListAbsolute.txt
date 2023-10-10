@@ -1,0 +1,12 @@
+C:\Users\jude\source\repos\ChurchManagementSystem.Domain\bin\Debug\net6.0\ChurchManagementSystem.Domain.deps.json
+C:\Users\jude\source\repos\ChurchManagementSystem.Domain\bin\Debug\net6.0\ChurchManagementSystem.Domain.dll
+C:\Users\jude\source\repos\ChurchManagementSystem.Domain\bin\Debug\net6.0\ChurchManagementSystem.Domain.pdb
+C:\Users\jude\source\repos\ChurchManagementSystem.Domain\obj\Debug\net6.0\ChurchManagementSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\jude\source\repos\ChurchManagementSystem.Domain\obj\Debug\net6.0\ChurchManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jude\source\repos\ChurchManagementSystem.Domain\obj\Debug\net6.0\ChurchManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\jude\source\repos\ChurchManagementSystem.Domain\obj\Debug\net6.0\ChurchManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\jude\source\repos\ChurchManagementSystem.Domain\obj\Debug\net6.0\ChurchManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jude\source\repos\ChurchManagementSystem.Domain\obj\Debug\net6.0\ChurchManagementSystem.Domain.dll
+C:\Users\jude\source\repos\ChurchManagementSystem.Domain\obj\Debug\net6.0\refint\ChurchManagementSystem.Domain.dll
+C:\Users\jude\source\repos\ChurchManagementSystem.Domain\obj\Debug\net6.0\ChurchManagementSystem.Domain.pdb
+C:\Users\jude\source\repos\ChurchManagementSystem.Domain\obj\Debug\net6.0\ref\ChurchManagementSystem.Domain.dll
